@@ -42,12 +42,15 @@
 </p>
 
 Databases : 
+<p align="center">
 <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo-500x313.png" alt="MongoDB" width="40"> 
 <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="40">
 
 AI & Cybersecurity:
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Machine_Learning_Logo.svg" alt="Machine Learning" width="40"> Machine Learning  
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Antu_security-high.svg" alt="Cybersecurity" width="40"> Cybersecurity Fundamentals
 
-Machine Learning, Cybersecurity Fundamentals
 ---
 
 ## 📈 **GitHub Activity Graph**  
