@@ -48,14 +48,14 @@ Databases :
 
 AI & Cybersecurity:
 <p align="center">
-Machine Learning
+Machine Learning , 
 Cybersecurity Fundamentals  
 
 ---
 
 ## 📈 **GitHub Activity Graph**  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=github-dark">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh2709&theme=github-dark">
 </p>
 
 ---
