@@ -53,7 +53,7 @@
 
 Databases : 
 <p align="center">
-<img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo-500x313.png" alt="MongoDB" width="80"> 
+<img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo-500x313.png" alt="MongoDB" width="80" height="40"> 
 <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="80">
 
 AI & Cybersecurity:
