@@ -1,10 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=HELLO+WORLD!_;Welcome+to+my+GitHub!+.+.+.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=WELCOME+TO+MY+GITHUB!_;CODING+IS+MAGIC!+.+.+.">
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" width="70%" alt="Retro Grid Animation">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" alt="Hacker Typing Animation">
 </p>
+
 
 ---
 
