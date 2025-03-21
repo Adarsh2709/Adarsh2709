@@ -41,6 +41,13 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="40">
 </p>
 
+Databases : 
+<img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo-500x313.png" alt="MongoDB" width="25"> 
+<img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="25">
+
+AI & Cybersecurity:
+
+Machine Learning, Cybersecurity Fundamentals
 ---
 
 ## 📈 **GitHub Activity Graph**  
@@ -53,20 +60,11 @@
 ## 📂 **Featured Repositories**  
 
 ### 📁 **My Awesome Projects**  
-[![Project 1](https://your-image-hosting-link.com/project1.png)](https://github.com/your-github/project1)  
-[![Project 2](https://your-image-hosting-link.com/project2.png)](https://github.com/your-github/project2)  
+### <img src="https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-flat/256/File-Folder-Flat-icon.png" width="30"> CarbonTrack ~ AI-Powered Optimization for Greener Living. 
+[![CarbonTrack](https://your-image-hosting-link.com/carbon-track.png)](https://github.com/rounakkm/carbontrack) (work in progress)
+
+### <img src="https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-flat/256/File-Folder-Flat-icon.png" width="30"> MedHistory  
+[![MedHistory](https://your-image-hosting-link.com/medicine-scanner.png)](https://github.com/Shardul-Pathak/MedHistory) (work in progress) 
 
 ---
 
-## ✨ **Cool Animated Banner**  
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052CC,100:00BFFF&height=120&section=footer" alt="Footer" />
-</p>
-
-Databases : 
-<img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo-500x313.png" alt="MongoDB" width="25"> 
-<img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="25">
-
-AI & Cybersecurity:
-
-Machine Learning, Cybersecurity Fundamentals
