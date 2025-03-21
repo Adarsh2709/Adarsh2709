@@ -48,8 +48,8 @@ Databases :
 
 AI & Cybersecurity:
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Artificial_Intelligence_Machine_Learning.svg" alt="Machine Learning" width="40"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Lock_Shield.svg/512px-Lock_Shield.svg.png" alt="Cybersecurity" width="40"> 
+Machine Learning
+Cybersecurity Fundamentals  
 
 ---
 
