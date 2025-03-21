@@ -42,8 +42,8 @@
 </p>
 
 Databases : 
-<img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo-500x313.png" alt="MongoDB" width="25"> 
-<img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="25">
+<img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo-500x313.png" alt="MongoDB" width="40"> 
+<img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="40">
 
 AI & Cybersecurity:
 
