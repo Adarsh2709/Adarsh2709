@@ -11,11 +11,12 @@
 
 ## 🚀 **About Me**  
 
-🟢 I love **Competitive Programming (CP)**  
-🔵 Proficient in **C, Java**  
-🟡 Love working on **both Frontend & Backend** (Master of none)  
-🟣 Interested in **Machine Learning & Cybersecurity**  
-🔴 **Tech Enthusiast & Problem Solver**  
+🟢 I love Competitive Programming (CP)
+🔵 Proficient in C, Java
+🟡 Love working on both Frontend & Backend (Master of none)
+🟣 Interested in Machine Learning & Cybersecurity
+🔴 Tech Enthusiast & Problem Solver
+🟠 CSE Fresher
 
 ---
 
