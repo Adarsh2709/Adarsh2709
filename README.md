@@ -79,8 +79,8 @@ Cybersecurity Fundamentals
 ### <img src="https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-flat/256/File-Folder-Flat-icon.png" width="30"> MedHistory  
 [![MedHistory](https://your-image-hosting-link.com/medicine-scanner.png)](https://github.com/Shardul-Pathak/MedHistory) (work in progress) 
 
-### <img src="https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-flat/256/File-Folder-Flat-icon.png" width="30"> MedHistory  
-[![CarbonTrack](https://your-image-hosting-link.com/medicine-scanner.png)](https://github.com/Shardul-Pathak/E-Waste) (work in progress) 
+### <img src="https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-flat/256/File-Folder-Flat-icon.png" width="30"> E-Waste
+[![E-Waste](https://your-image-hosting-link.com/medicine-scanner.png)](https://github.com/Shardul-Pathak/E-Waste) (work in progress) 
 
 
 ---
