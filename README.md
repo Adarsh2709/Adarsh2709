@@ -21,7 +21,6 @@
 
 🔴 Tech Enthusiast & Problem Solver
 
-🟠 CSE Fresher
 
 ---
 
