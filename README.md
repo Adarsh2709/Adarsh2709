@@ -71,19 +71,3 @@ Cybersecurity Fundamentals
 </p>
 
 ---
-
-## 📂 **Featured Repositories**  
-
-### 📁 **My Awesome Projects**  
-### <img src="https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-flat/256/File-Folder-Flat-icon.png" width="30"> CarbonTrack ~ AI-Powered Optimization for Greener Living. 
-[![CarbonTrack](https://your-image-hosting-link.com/carbon-track.png)](https://github.com/rounakkm/carbontrack) (work in progress)
-
-### <img src="https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-flat/256/File-Folder-Flat-icon.png" width="30"> MedHistory  
-[![MedHistory](https://your-image-hosting-link.com/medicine-scanner.png)](https://github.com/Shardul-Pathak/MedHistory) (work in progress) 
-
-### <img src="https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-flat/256/File-Folder-Flat-icon.png" width="30"> E-Waste
-[![E-Waste](https://your-image-hosting-link.com/medicine-scanner.png)](https://github.com/Shardul-Pathak/E-Waste) (work in progress) 
-
-
----
-
