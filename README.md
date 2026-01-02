@@ -42,7 +42,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Swing_logo.png" alt="Java Swing" width="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java Swing" width="50">
+
+
 </p>
 
 ### **Frameworks & Libraries**  
