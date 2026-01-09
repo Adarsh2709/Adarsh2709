@@ -70,4 +70,10 @@ Cybersecurity Fundamentals
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh2709&theme=github-dark">
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adarsh2709/Adarsh2709/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions">
+</p>
+
 ---
