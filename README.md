@@ -1,11 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=WELCOME+TO+MY+GITHUB!_;CODING+IS+MAGIC!+.+.+.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=750&lines=WELCOME+TO+MY+GITHUB!_;CODING+IS+MAGIC!+.+.+.;PROBLEM+SOLVER+%7C+JAVA+DEVELOPER;DSA+%7C+CP+%7C+WEB+DEVELOPMENT">
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" alt="Hacker Typing Animation">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" alt="Coding Animation">
 </p>
-
 
 ---
 
@@ -16,7 +15,6 @@
 - Data Structures & Algorithms
 - Java Backend Developer
 - React Frontend Developer
-- Machine Learning Enthusiast
 
 ---
 
@@ -41,9 +39,7 @@
 
 ## ⚙️ Backend Development
 
-## ⚙️ Backend Development
-
-![Java](https://img.shields.io/badge/Java_Backend-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java Backend](https://img.shields.io/badge/Java_Backend-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
@@ -62,7 +58,7 @@
 
 ---
 
-## 🤖 Machine Learning
+## 📊 Machine Learning
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -83,15 +79,43 @@
 
 ---
 
-## 📈 **GitHub Activity Graph**  
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh2709&theme=github-dark">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adarsh2709&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Adarsh2709&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🐍 Contribution Snake
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh2709&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎮 3D Contribution Calendar
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Adarsh2709/Adarsh2709/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Calendar" />
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh2709&theme=github-dark&hide_border=true" alt="GitHub Activity Graph">
+</p>
+
+---
+
+## ⏱️ Productivity Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adarsh2709&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adarsh2709&theme=github_dark" />
 </p>
 
 ---
