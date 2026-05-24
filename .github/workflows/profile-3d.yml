@@ -17,3 +17,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: Adarsh2709
+
+      - name: Push generated files
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "."
+          message: "Generate 3D contribution graph"
