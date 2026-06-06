@@ -1,12 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=750&lines=WELCOME+TO+MY+GITHUB!_;CODING+IS+MAGIC!+.+.+.;PROBLEM+SOLVER+%7C+JAVA+DEVELOPER;DSA+%7C+CP+%7C+WEB+DEVELOPMENT">
-</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" alt="Coding Animation">
-</p>
-
----
 
 ## About Me
 
